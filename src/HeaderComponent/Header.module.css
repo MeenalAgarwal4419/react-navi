@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #cacaca;
+  border: 1px solid black;
+  border-radius: 0.2rem;
+  margin-bottom: 0.5rem;
+  height: 2rem;
+  width: 50%;
+}
+.headerTitle {
+  padding: 0.3rem;
+}

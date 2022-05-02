@@ -1,0 +1,27 @@
+.addButton {
+  background-color: black;
+  color: white;
+}
+.listContainer {
+  background-color: gray;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.innerListContainer {
+  padding: 5px;
+}
+.list__Header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.inputBox {
+  border: 1px solid black;
+  border-radius: 2px;
+  margin: 5px 0;
+}
+.inputWrapper {
+  background-color: white;
+  border-radius: 0.25rem;
+}
